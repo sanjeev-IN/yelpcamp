@@ -28,5 +28,14 @@ To see the app in action, go to [https://sanjeev-yelpcamp.herokuapp.com/](https:
   
   * Update campground photos when editing campgrounds
 
-* Flash messages responding to users' interaction with the app
+* Flash messages responding to user's interaction with the app
 
+## What you may expect soon
+
+ * Better and responsive Index page for small and mobile screens
+
+ * Pagination on Index page
+
+ * Invidual user's page, where a user can manage his campgrounds, information, details and change password
+
+ * Password recovery and verification via email
